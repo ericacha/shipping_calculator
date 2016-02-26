@@ -25,5 +25,7 @@
          <h3>Your package is traveling: <?php echo $input_distance . " miles"; ?> </h3>
          <h3>The cost will be: $<?php echo $shipping_price; ?> </h3>
      </div>
+
+     <a href="shipping_calculator.html"><button type="submit" class="btn-success">Return</button></a>
  </body>
  </html>
