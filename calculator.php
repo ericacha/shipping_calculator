@@ -8,7 +8,7 @@
     function calculateShipping($weight, $distance)
     {
         $price= $weight/20 + $distance/20;
-        $return $price;
+        return $price;
 
     }
  ?>
